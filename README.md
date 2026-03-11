@@ -4,3 +4,10 @@ This repository contains the code used for my second assignment on the elective 
 - Three different neural network architectures were developed and trained on the previous dataset. The models were evaluated using metrics on both training and test sets and a detailed hyperparameter tuning process was carried out.
 - Dimensionality reduction was performed using PCA and t-SNE and KMeans clustering was also applied to the reduced data.
 - A Random Forest surrogate model was developed to approximate the relationship between input features and BCF. The surrogate was used to perform input optimization, aiming to minimize the predicted BCF.
+
+## Key files
+
+| File                  | Language | Description                                       |
+|-----------------------|----------|---------------------------------------------------|
+| **`Athina_Bampzeli_Programming_Languages_2.pdf`**            | English  | Report         |
+| **`Athina_Bampzeli_Programming_Languages_2.ipynb`**            | English  | Python Code         |
